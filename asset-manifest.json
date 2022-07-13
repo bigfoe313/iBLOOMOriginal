@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iBLOOMRecords/static/css/main.9cb5077b.css",
+    "main.js": "/iBLOOMRecords/static/js/main.6b4a3e94.js",
+    "static/js/787.ebd7646a.chunk.js": "/iBLOOMRecords/static/js/787.ebd7646a.chunk.js",
+    "static/media/Spotify.png": "/iBLOOMRecords/static/media/Spotify.9816e42b058c64fe305f.png",
+    "index.html": "/iBLOOMRecords/index.html",
+    "main.9cb5077b.css.map": "/iBLOOMRecords/static/css/main.9cb5077b.css.map",
+    "main.6b4a3e94.js.map": "/iBLOOMRecords/static/js/main.6b4a3e94.js.map",
+    "787.ebd7646a.chunk.js.map": "/iBLOOMRecords/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb5077b.css",
+    "static/js/main.6b4a3e94.js"
+  ]
+}
